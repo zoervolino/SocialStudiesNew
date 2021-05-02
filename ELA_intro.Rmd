@@ -1,0 +1,135 @@
+---
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+css: ashlin_style.css
+---
+<style type="text/css">
+.main-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+    background-color:HoneyDew;
+    	cursor: url('/Users/zoeervolino/Documents/zoe/SocialStudies/Strawberry normal select.cur'), default;
+}
+</style>
+
+<p style="text-align:left">
+<small><small>Zoe Morales Ervolino 
+<br>
+(she / her / ella)
+<br>
+4.29.21</small></small></p>
+
+<hr>
+<center><h1>ELA</h1></center>
+
+<b>Welcome back to ELA!</b><br>In this lesson, we will review the components that form <u>a strong introductory paragraph</u> for a literary essay.
+
+<i>This is a test.</i> 
+
+<br>
+<br>
+
+<h3>Structure of a successful introduction:</h3>
+
+<h4>1. <b>Hook</b>: grabs the reader's attention
+<br>
+
+<h4>2. <b>TAG</b>: Title, Author, Genre
+<br>
+
+<h4>3. <b>BLT</b>: Background, Location, Time
+<br>
+
+<h4>4. <b>Synopsis</b>: a birds eye view of the world
+<br>
+
+<h4>5. <b>Focus</b>: narrowing in to set up the topic
+<br>
+
+<h4>6. <b>Thesis</b>: a strong claim supported by evidence from the text
+<br>
+</h4>
+<br>
+
+```{r image1, echo=FALSE, out.width="40%", fig.align='center'}
+
+##brain <- "/Users/zoeervolino/Documents/zoe/SocialStudies/Expanding-Brain.jpeg"
+##knitr::include_graphics(brain)
+
+```
+<hr>
+
+<h2>TAG</h2>
+```{r image2, echo=FALSE, out.width="20%", fig.align='center'}
+
+tag <- "/Users/zoeervolino/Documents/zoe/SocialStudies/tag.jpeg"
+knitr::include_graphics(tag)
+
+```
+<h3>(you're it!)</h3>
+
+<b>T - Title
+
+A - Author
+
+G - Genre**</b>
+<br>
+<br>
+
+<h3>for example:</h3>
+
+<h4><br>
+A timeless reckoning with jealousy, fidelity, and love, William Shakespeare's comedic play, <i>A Midsummer Night's Dream</i>, highlights the absurd qualities of the human experience.
+<br>
+<br>
+<i><small>**REMINDER: don't forget how to properly cite different <u>types</u> of texts. For the purpose of this class we will use MLA but Chicago is widely used in historical writing and APA is used in scientific literature.</i></small></h4>
+<br>
+<hr>
+
+<h2>BLT</h2>
+```{r image3, echo=FALSE, out.width="20%", fig.align='center'}
+
+blt <- "/Users/zoeervolino/Documents/zoe/SocialStudies/27Diaryrex4-articleLarge.jpeg"
+knitr::include_graphics(blt)
+
+```
+<h3>(no, in this case you CAN'T hold the 'B' even if you're vegan)</h3>
+<br>
+
+<b>B - Background
+
+L - Location
+
+T - Time</b>
+<br>
+<h3>for example:</h3>
+
+<h4>First performed around 1596, Shakespeare's <i>A Midsummer Night's Dream</i> traces the escapades of four Athenians who retreat to the forest only to find themselves bewitched by supernatural forces.</h4>
+
+<hr>
+<br>
+<br>
+
+<h4><b>Synopsis<br></b>
+Provides relevant insight into the world of the text to provide a foundation for the argument to come (thesis)
+<br>
+
+<b>Focus<br></b>
+A transitional sentence or two that places a "viewfinder" on the broader text and defines the area of interest that you intend to discuss in the essay.
+
+What's a viewfinder? The camera component that shows the photographer the area of the subject that will be included in a photograph.
+<br>
+
+<>Thesis<br></b>
+1. Makes an argumentative assertion<br>
+2. Provides a roadmap for how you will prove your claim<br>
+</h4>
+<br>
+
+<h3>for example:</h3>
+
+[insert example]
+

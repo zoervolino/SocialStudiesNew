@@ -1,0 +1,71 @@
+
+@font-face {
+    font-family: 'AerologicaRegular-K7day';
+    src: url("/Users/zoeervolino/Documents/zoe/AerologicaRegular-K7day.ttf") format('truetype');
+    font-weight: thin;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Y2K_neophyte_italic';
+    src: url("/Users/zoeervolino/Documents/zoe/Y2K_neophyte_italic.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'WarioLand4CHMC';
+    src: url("/Users/zoeervolino/Documents/zoe/Warioland4chmc-VApe.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ElegantTypewriter';
+    src: url("/Users/zoeervolino/Documents/zoe/SocialStudies/ElegantTypewriter.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+  font-size: 20px;
+  font-family: ElegantTypewriter;
+  text-align:center;
+  color:MidnightBlue;
+}
+
+  
+h1{
+  font-family: AerologicaRegular-K7day;
+  font-size: 60pt;
+  font-weight: thin;
+  color:Crimson;
+}
+
+h2{
+  font-family: AerologicaRegular-K7day;
+  font-size: 70pt;
+  color:MidnightBlue;
+}
+
+h3{
+  font-family: Y2K_neophyte_italic;
+  font-size: 24pt;
+  color:DarkCyan;
+}
+
+h4{
+  font-family: ElegantTypewriter;
+  font-size: 25pt;
+  color:DarkSlateBlue;
+}
+
+h5{
+  font-family: Y2K_neophyte_italic;
+  font-size: 40pt;
+  color:Indigo;
+}
+
+p {
+  margin-bottom: 100px;
+}

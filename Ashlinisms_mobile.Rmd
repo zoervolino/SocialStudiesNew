@@ -1,0 +1,151 @@
+---
+output:
+  html_document:
+    df_print: paged
+css: ashlin_style.css
+---
+<head><style type="text/css">
+.main-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+    background-color:HoneyDew;
+    	cursor: url('/Users/zoeervolino/Documents/zoe/SocialStudies/Strawberry normal select.cur'), default;
+}
+<meta name="viewport" content="width=device-width, initial-scale=1" /> 
+</head></style>
+
+<p style="text-align:left">
+<small><small>Zoe Morales Ervolino 
+<br>
+(she / her / ella)
+<br>
+4.29.21</small></small></p>
+
+<hr>
+
+<b>Welcome back to ELA!</b>
+
+<h1>ASHLINISMS</h1>
+ 
+Some "Ashlinisms" include: 
+<small><br>
+- "marginalia"
+<br>
+- "consternation"
+<br>
+- "SORE-ee" instead of "sorry"</small>
+<br>
+
+<small>That was fun! Now, let's take a step back to review some basics about how we can strengthen our writing.</small>
+
+<hr>
+
+```{r image1, echo=FALSE, out.width="80%", fig.align='center'}
+
+brain <- "/Users/zoeervolino/Documents/zoe/SocialStudies/Expanding-Brain.jpeg"
+knitr::include_graphics(brain)
+
+```
+<hr>
+
+<h2>TAG</h2>
+```{r image2, echo=FALSE, out.width="20%", fig.align='center'}
+
+tag <- "/Users/zoeervolino/Documents/zoe/SocialStudies/tag.jpeg"
+knitr::include_graphics(tag)
+
+```
+<h3>(you're it!)</h3>
+
+<b>T- Title
+
+A - Author
+
+G - Genre**</b>
+<br>
+<h3>for example:</h3>
+
+<h4><br>
+A timeless reckoning with jealousy, fidelity, and love, William Shakespeare's comedic play, <i>A Midsummer Night's Dream</i> highlights the absurd qualities of the human experience.
+<br>
+<i><small>**REMINDER: don't forget how to properly cite different <u>types</u> of texts. For the purpose of this class we will use MLA but Chicago is widely used in historical writing and APA is used in scientific literature</i></small></h4>
+<br>
+
+<h3>CITATION examples:</h3>
+<h4> 
+
+- An 1861 article titled, "Othello's Shadow," argued that the Shakespearean work presented a case for abolition of enslaved Africans.
+  
+  
+- As a widely acclaimed novel highlighting class disparities in 1920s New York, <i>The Great Gatsby</i> transformed the American literary  cannon.
+  
+  
+- William Carlos Williams' poem, "The Red Wheelbarrow," invites the reader to reconsider the simple pleasures of quotidian living.
+  
+  
+- Broadcasted on American television during the 1990s, <u>The Fresh Prince of Bel-Air</u> managed to effectively refute a static representation of blackness in media.</h4>
+
+<hr>
+
+<h2>BLT</h2>
+```{r image3, echo=FALSE, out.width="20%", fig.align='center'}
+
+blt <- "/Users/zoeervolino/Documents/zoe/SocialStudies/27Diaryrex4-articleLarge.jpeg"
+knitr::include_graphics(blt)
+
+```
+<h3>(no, in this case you CAN'T hold the 'B' even if you're vegan)</h3>
+<br>
+<b>B - Background
+
+L - Location
+
+T - Time</b>
+
+<h3>for example:</h3>
+
+<h4>- First performed around 1596, Shakespeare's <i>A Midsummer Night's Dream</i> traces the escapades of four Athenians who escape to the forest only to find themselves bewitched by supernatural forces.</h4>
+
+<hr>
+
+<h2>SQUID</h2>
+```{r image4, echo=FALSE, out.width="20%", fig.align='center'}
+
+squid <- "/Users/zoeervolino/Documents/zoe/SocialStudies/squid.jpeg"
+knitr::include_graphics(squid)
+
+```
+<br>
+<b>SQ - Select a Quotation
+
+U - Understand
+
+I - Identify 
+
+D - Demonstrate Significance</b>
+
+<h3>for example:</h3>
+
+Select a Quotation: 
+<h4><small>- "As if our hands, our sides, voices, and minds /
+Had been incorporate. So we grew together /
+Like to a double cherry, seeming parted, /
+But yet an union in partition, /
+Two lovely berries molded on one stem..." (A Midsummer Night's Dream, 3.2, 97)</small></h4>
+
+Understand: 
+<h4>Helena employs the analogy of a double cherry to describe the intimate relationship she shares with Hermia, and, in particular, to simultaneously highlight their shared formation as well as their individuality.</h4> 
+
+Identify: <h4>This metaphor works in context to emphasize the betrayal that Helena feels in having her lover suddenly turn his attention towards her lifelong friend.</h4>
+
+Demonstrate Signficance: <h4>In comparing Hermia and Helena's relationship to that of "[t]wo lovely berries molded on one stem," Shakespeare highlights how the womens' friendship occupies a unique position oscillating between one conjoined entity and two individual beings.
+
+<br>This rhetorical construction underscores the betrayal that Helena feels upon discovering that her former lover has redirected his affections towards Hermia.</h4>
+
+***
+
+<hr>
+
+
+

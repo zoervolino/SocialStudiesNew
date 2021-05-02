@@ -1,0 +1,69 @@
+---
+output:
+  html_document:
+    df_print: paged
+css: ashlin_style.css
+---
+<style type="text/css">
+.main-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+    background-color:HoneyDew;
+    	cursor: url('/Users/zoeervolino/Documents/zoe/SocialStudies/Strawberry normal select.cur'), default;
+}
+</style>
+
+<p style="text-align:left">
+<small><small>Zoe Morales Ervolino 
+<br>
+(she / her / ella)
+<br>
+4.29.21</small></small></p>
+
+<hr>
+
+<b>Welcome back to ELA!</b>
+
+
+
+<h2>SQUID</h2>
+```{r image4, echo=FALSE, out.width="20%", fig.align='center'}
+
+squid <- "/Users/zoeervolino/Documents/zoe/SocialStudies/squid.jpeg"
+knitr::include_graphics(squid)
+
+```
+<br>
+<b>SQ - Select a Quotation
+
+U - Understand
+
+I - Identify 
+
+D - Demonstrate Significance</b>
+
+<h3>for example:</h3>
+
+Select a Quotation: 
+<h4>- "As if our hands, our sides, voices, and minds /
+Had been incorporate. So we grew together /
+Like to a double cherry, seeming parted, /
+But yet an union in partition, /
+Two lovely berries molded on one stem..." (A Midsummer Night's Dream, 3.2, 97)</h4>
+
+Understand: 
+<h4>Helena employs the analogy of a double cherry to describe the intimate relationship she shares with Hermia, and, in doing so, simultaneously highlights the shared experience of the two, in addition to their individuality.</h4> 
+
+Identify: <h4>This metaphor works in context to emphasize the betrayal that Helena feels in having her lover suddenly turn his attention towards her lifelong friend.</h4>
+
+Demonstrate Signficance: <h4>In comparing Hermia and Helena's relationship to that of "[t]wo lovely berries molded on one stem," Shakespeare highlights how the womens' friendship occupies a unique position that oscillates between one conjoined entity and two individual beings.
+
+<br>This rhetorical construction underscores the betrayal that Helena feels upon discovering that her former lover has redirected his affections towards Hermia.</h4>
+
+***
+
+<hr>
+
+
+

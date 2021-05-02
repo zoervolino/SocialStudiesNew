@@ -1,0 +1,153 @@
+---
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+css: ss_mobile_style.css
+
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+---
+<style type="text/css">
+.main-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+    background-color:HoneyDew;
+    	cursor: url('/Users/zoeervolino/Documents/zoe/SocialStudies/Strawberry normal select.cur'), default;
+}
+</style>
+
+<p style="text-align:left">
+<small><small>Zoe Morales Ervolino 
+<br>
+(she / her / ella)
+<br>
+4.30.21</small></small></p>
+
+<hr>
+<center><h1>SOCIAL STUDIES</h1></center>
+
+<b>Welcome back to Social Studies!</b>
+
+<B>TODAY:</B>
+A spoonful of sugar helps the empire, race, labor, and capitalism go down.
+<br>
+<br>
+In this lesson, we will review the components that form <u>a strong introductory paragraph</u> for a literary essay.
+
+<br>
+
+<h3>Structure of a successful introduction:</h3>
+
+<h4>1. <b>Hook</b>: grabs the reader's attention
+<br>
+
+<h4>2. <b>TAG</b>: Title, Author, Genre
+<br>
+
+<h4>3. <b>BLT</b>: Background, Location, Time
+<br>
+
+<h4>4. <b>Synopsis</b>: a birds eye view of the world
+<br>
+
+<h4>5. <b>Focus</b>: narrowing in to set up the topic
+<br>
+
+<h4>6. <b>Thesis</b>: a strong claim supported by evidence from the text
+<br>
+</h4>
+<br>
+
+HOOK:
+Despite the United States’ legal and intellectual commitment to liberty, it remains a nation that has permitted the perpetuation of a disenfranchised, subordinate, and disposable labor force to provide for the sustenance of its population. 
+
+SUMMARY: Beginning with the enslavement of Africans through the transatlantic slave trade carrying and exhibited today with Mexican workers, the country shows a historical and contemporary dependency on cheap labor, no matter the moral cost. Though the legal eradication of slavery in 1865 was not wholly effective, it fractured the system of black chattel slavery that had been in place. However, this did not mean that slavery ended – instead, it transformed, with the shift to a “coolie” labor force, with plantation owners driving the importation of Chinese laborers to satisfy the labor deficit that had been created by the end to slavery. 
+
+FOCUS: To this day, the United States has not resolved this issue of a subordinate peasantry class of workers, with Mexican workers currently sustaining the agricultural system. Though hundreds of years separate these two classes of marginalized laborers, what they share in common is indicative of the ways that the US society is shaped around an agricultural hierarchy dependent on racism and dehumanization. The differences between these two systems of labor illustrate the changes necessary to sustain this system of food production. 
+
+THESIS: In this paper, I will analyze the conditions and experiences of Chinese coolie laborers and Mexican laborers by examining the answers to the following questions: 
+
+a) How has US law and policy operated to keep the labor force subjugated? <br>
+b) How does racial rhetoric work to justify subjugation on both the macro levels of society but also on the micro levels of the farm hierarchies themselves? <br>
+c) How have these laborers resisted unjust treatment? <br>
+
+Answering these questions will provide a framework to think about how race sustains the American agricultural system on legal and non-legal fronts, as well as a means of thinking about combatting this unjust structure altogether. 
+
+<br>
+<hr>
+
+<b>
+<h4>
+Starting with evidence:
+</b>
+<br></h4>
+<a href="https://www.jstor.org/stable/25096583">Jung, <i>Coolies and Cane</i></b></h></a>
+<br>
+<br>
+
+<h3>Jung, “Demanding Coolies”</h3>
+
+<i>“[Coolies] remained an enigma, a cultural figure identified with the past (slavery) and increasingly with the future (industrial capitalism and free trade). Were they slaves or immigrants, black or white, an asset or a deficit to America’s progress? In an industrializing and expanding nation trying to recover from a devastating war, they were all those things and much more” </i>(Jung 76).
+
+<hr>
+
+<h4>Returning to the Subject at Hand</h4><br>
+
+Legal practices and legislation were and are crucial to maintaining the specific conditions and day-to-day life of both Chinese coolie laborers in the Reconstruction Era and Mexican immigrant workers in the present day, but functioned differently. In the case of coolie laborers, the law was crucial to both sustaining and terminating coolie labor, and legislative changes shaped the lived experiences of individual workers in both positive and negative ways. With the abolition of the slavery during the Civil War, southern plantation owners searched desperately for a replacement of cheap, disposable labor to sustain the agricultural economy that had been in place and dependent on slavery. Following the model of restrictive coolie labor in Cuba, Louisiana legislature passed an extensive series of laws, known as Black Codes, that severely undermined workers' rights and freedoms. With the intention of demonstrating to black workers that the agricultural system could be sustained without them, various merchant houses, given demand and state sanction, began to supply and profit from the emerging market for coolie laborers. Under these policies, not only was importing coolie labor sanctioned by the state, but unjust treatment, originally aimed at repressing freed black workers, was approved as well. 
+
+<br>
+<br>
+As argued by Moon-Jung Ho in <i>Coolies and Cane: Race, Labor, and Sugar in the Age of Emancipation</i>, this flagrant disregard of human rights and of federal law was a cause for concern among officials, where the Republican House and Senates stood steadfastly and unanimously opposed to the coolie trade. Despite the opposition of federal officials and the law, the trade illegally and quietly took root in Louisiana. Once federal officials caught wind of the trade occurring in the South, they attempted to take legal action against the trade, seizing a ship illegally carrying twenty-three coolie workers and filing a federal case. However, the case did not last; the charges were dropped and the case dismissed within one month of the incident and with no exploration into the well-being of the coolie laborers themselves, revealing that entire conflict over coolie workers was more accurately a conflict over federal and southern power. 
+
+In the case of Mexican workers, international and domestic policy have worked simultaneously to create conditions that necessitate migration and to promote suffering. As Seth M. Holmes explains in <i>Fresh Fruit, Broken Bodies,</i> the implementation of international trade policies such as NAFTA that appear to promote positive relations on a surface level and work to eradicate tariffs are devastating to local economies and communities in Mexico, eliminating job opportunities. Reduced to poverty, individuals are forced to migrate to the US to seek employment. Given the illegality of crossing the border and the lack of existence of a seasonal pass, workers are forced to trek and suffer silently to cross the border. This silence and fear transcends the crossing of the border, profoundly affecting existence in the US. Given the fear of deportation, workers are required to tolerate poor treatment and working conditions for fear that reporting violations of existing law will reveal their immigration status. 
+
+Thus, the law operates simultaneously to both necessitate and condemn undocumented immigrant status. Similar to the case of coolies, federal and state law sets in place protective legislature steadfastly opposed to the notions of inhumane treatment and working conditions, but enforcement is lacking. In the case of both coolies and Mexican workers, this lack of enforcement is rooted in the capitalist desire to maintain a marginalized peasantry agricultural force. Though coolies went unprotected in part because of the deep investment in Southern-Northern conflict that superseded human rights concerns, Mexican workers are defenseless against abuse because of the cultural and legal vilification of undocumented status that makes enforcement of existing protective legislation difficult. 
+
+In order to maintain and justify the continuation of a subordinate, expendable, agricultural work force, US officials and agricultural elites have sustained intricate and powerful systems of racial logics. Generally, these logics work and have worked to naturalize suffering and to both create and explain farm hierarchies, but have operated slightly differently for coolie laborers in the late nineteenth century and Mexican laborers in the present day. Because the rise in coolie labor corresponds with the decline of black labor as a result of the end of the Civil War, racial rhetoric that encouraged and justified the implementation and importation of coolie laborers often operated in conversation with racism against freed black workers. Coolies were glorified simultaneously for their obedience and intelligence, as both implicit and explicit criticisms of black workers. For coolie workers, dehumanization was rooted in a falsified notion of consensual subservience as a contrast to the notion of unruly, power-hungry black workers. In some cases, coolies were understood as a tool to demonstrate to black workers that the system could be sustained without them.
+
+In the case of Mexican workers, racial logic that enables suffering centers on notions of laziness, simplemindedness, and criminal tendencies. These racist frameworks govern life for Mexican workers on both macro and micro levels, influencing both the reception of protective legislation and the hierarchies and conditions of the farms where they work. In the specific case of the Oaxacan workers from <i>Fresh Fruit, Broken Bodies</i>, the distribution of labor on these farms operates with a white supremacist framework in mind: while the “unskilled” labor is often assigned to Mexican laborers, with the most physically difficult and undesirable positions being given to workers who are perceived as indigenous, the positions of authority are almost entirely given to white workers. This application is further complicated by language – workers who can only speak Triqui are seen as uncivilized and workers who can only speak Spanish similarly viewed, yet workers who can speak English are afforded special privileges and power. 
+
+Though the specific nature of racist logic of coolie laborers and Mexican laborers differs in certain respects, they are similar in the sense that they both normalize suffering and inequity. Language to describe coolie and Mexican laborers upheld/hold the notions that they are out of place – both “migrant” and “coolie”/“Mexican” suggest belonging to another place. This temporality, compounded with notions of obedience in the case of the coolie worker and notions of stubbornness in the case of the Mexican worker, operate to justify poor conditions as either desired or deserved, respectively. Coolies were argued as fit for the labor because they were accustomed to the agricultural processes of growing certain crops, not only implying physical aptness for the job but also that the positions had been earned. By contrast, Mexican workers are argued as fit for agricultural labor through their inferiority and stubbornness. This argument serves as a rejection of any premise of qualification, but a sanction of poor working and living conditions by means of an assumption of low standards. 
+
+Despite overwhelming attempts of subordination, both coolie laborers and Mexican workers have resisted through collective efforts. To the shock of plantation owners and farmers, coolies did not demonstrate overwhelming obedience to the confines of bound labor. There were incidents of rebellion, and workers negotiated contracts and wages. Workers no longer under contract organized themselves into independent labor gangs (“cuadrillas”) and hiring themselves out, not unlike the organization of the modern union, as early as 1870. These acts of protective and group organizing mirror more contemporary strategies of protection used by Mexican workers, but contrasting economic realities compel different approaches. Though coolie laborers were able to bargain for wages and control their hiring under more individual approaches, the existence of the global market shifts the power from the farmers to the chain suppliers. As illustrated by the documentary <i>Food Chains</i>, attempts to force farmers into providing hire wages ignored the reality that it was the price setters at the chain suppliers, such as Publix, who established the finances required for profit. Rather than fight individual farmers, workers led a hunger strike to compel the corporate enterprises to change. Both coolies and Mexican workers utilized organized coalitions of action to fight for better conditions, despite economic differences. 
+
+Although they inhabited distinct historical, legal, and economic climates, Chinese coolie workers in the late nineteenth century and Mexican workers in the present day have both been exploited and resisted a mostly unchanged American agricultural system. Both coolies and Mexicans have traversed the bounds between uncharted legal territory: in the case of coolies, the lack of specific legislation applied to them, and in the case of Mexicans, the difficulties of self-advocacy when undocumented. However, for coolies changing policy altered the nature of the trade and uncovered ulterior legal motives – the changing legal status of importing coolies revealed the precedent of Northern-Southern antagonism in the early moments in Reconstruction. For Mexican, domestic and international trade policy reveals the face-value nature of protective legislation for Mexican workers, where enforcement is difficult by nature of the invisibility and vulnerability of undocumented workers. Despite problematic legal climates compounded by both legal and cultural racism, coolies and Mexican workers are linked in their resistance to unjust treatment. The similarities and differences between the conditions and experiences of these disparate workers reveal both the little progress that has been made to reform the unjust nature of American agricultural production, while also providing a framework for action. In spite of unjust conditions, both coolie and Mexican workers organize. This shared tendency for collective action reveals the importance of community for the protection of workers, and emphasizes the importance of maintaining and building those communities of empowerment.
+
+<br>
+<br>
+<br>
+
+
+
+<h3><b><u>Bibliography</u></b></h3>
+<br>
+
+<i>Food Chains.</i> Directed by Sanjay Rawal. Food Chains Film. Accessed February 10, 2014. www.foodchainsfilm.com/.
+<br>
+
+Holmes, Seth M. <i>Fresh Fruit, Broken Bodies: Migrant Farmworkers in the United States.</i> Berkeley, Calif.: Univ. of California Press, 2014.
+<br>
+
+Jung, Moon-Ho. "Demanding Coolies." In Coolies and Cane: Race, Labor, and Sugar in the Age of Emancipation. Baltimore, MD: Johns Hopkins University Press, 2009.
+<br>
+<br>
+<hr>
+<h2>LATER:</font></h2><br>
+<h4><p style="font-size:50px">ANALYZING OUR EVIDENCE</h4></p>
+
+<br>
+
+<h5>Try a SQUID!</h5>
+<br> 
+<b>SQ - Select a Quotation</p>
+<p>U - Understand</p>
+<p>I - Identify</p>
+<p>D - Demonstrate Significance</b></p>
+<br>
+<hr>
+<p>
