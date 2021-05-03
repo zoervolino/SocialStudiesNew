@@ -25,18 +25,20 @@ css: ashlin_style.css
 (she / her / ella)
 <br>
 4.29.21</small></small></p>
-
 <hr>
-
+<center>
 <h1>ASHLINISMS</h1>
-
+</center>
+<br>
+<center>
 <b>Welcome back to ELA!</b>
-
+</center>
+<center>
+<br>
 <a href="intro.html"><center><i><h3>ELA INTRO</i><h3></center></a>
 <br>
 <a href="squid.html"><center><i><h3>ELA SQUID</i><h3></center></a>
-
- 
+<br>
 Some "Ashlinisms" include: 
 <br>
 - "marginalia"
