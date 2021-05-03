@@ -33,11 +33,26 @@ knit: (function(input_file, encoding) {
 
 <b>Welcome back to Social Studies!</b>
 
+<a href="Ashlinisms.html"><i>Review on essay structure from ELA</i></a>
+
 <B>TODAY:</B>
 A spoonful of sugar helps the empire, race, labor, and capitalism go down.
 <br>
+
+<html>
+<body>
 <br>
-In this lesson, we will review the components that form <u>a strong introductory paragraph</u> for a literary essay.
+<video width="50%" controls>
+  <source src="IMG_5145.MOV" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<br>
+
+</body>
+</html>
+<br>
+<br>
+In this lesson, we will review the components that form <u>a strong introductory paragraph</u> for an essay.
 
 <br>
 
@@ -52,13 +67,13 @@ In this lesson, we will review the components that form <u>a strong introductory
 <h4>3. <b>BLT</b>: Background, Location, Time
 <br>
 
-<h4>4. <b>Synopsis</b>: a birds eye view of the world
+<h4>4. <b>Synopsis</b>: a bird's eye view of the world
 <br>
 
 <h4>5. <b>Focus</b>: narrowing in to set up the topic
 <br>
 
-<h4>6. <b>Thesis</b>: a strong claim supported by evidence from the text
+<h4>6. <b>Thesis</b>: a strong claim supported by evidence from the text, with a roadmap for how you will prove your argument
 <br>
 </h4>
 <br>
@@ -66,7 +81,7 @@ In this lesson, we will review the components that form <u>a strong introductory
 HOOK:
 Despite the United States’ legal and intellectual commitment to liberty, it remains a nation that has permitted the perpetuation of a disenfranchised, subordinate, and disposable labor force to provide for the sustenance of its population. 
 
-SUMMARY: Beginning with the enslavement of Africans through the transatlantic slave trade carrying and exhibited today with Mexican workers, the country shows a historical and contemporary dependency on cheap labor, no matter the moral cost. Though the legal eradication of slavery in 1865 was not wholly effective, it fractured the system of black chattel slavery that had been in place. However, this did not mean that slavery ended – instead, it transformed, with the shift to a “coolie” labor force, with plantation owners driving the importation of Chinese laborers to satisfy the labor deficit that had been created by the end to slavery. 
+SUMMARY: Beginning with the enslavement of Africans through the transatlantic slave trade and exhibited today with Mexican workers, the country shows a historical and contemporary dependency on cheap labor, no matter the moral cost. Though the legal eradication of slavery in 1865 was not wholly effective, it fractured the system of black chattel slavery that had been in place. However, this did not mean that slavery ended – instead, it transformed, with the shift to a “coolie” labor force, with plantation owners driving the importation of Chinese laborers to satisfy the labor deficit that had been created by the end to slavery. 
 
 FOCUS: To this day, the United States has not resolved this issue of a subordinate peasantry class of workers, with Mexican workers currently sustaining the agricultural system. Though hundreds of years separate these two classes of marginalized laborers, what they share in common is indicative of the ways that the US society is shaped around an agricultural hierarchy dependent on racism and dehumanization. The differences between these two systems of labor illustrate the changes necessary to sustain this system of food production. 
 
