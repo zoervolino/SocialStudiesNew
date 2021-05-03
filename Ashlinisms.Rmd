@@ -2,6 +2,11 @@
 output:
   html_document:
     df_print: paged
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'Ashlinisms.html'))})
 css: ashlin_style.css
 ---
 <style type="text/css">
@@ -10,7 +15,7 @@ css: ashlin_style.css
   margin-left: auto;
   margin-right: auto;
     background-color:HoneyDew;
-    	cursor: url('/Users/zoeervolino/Documents/zoe/SocialStudies/Strawberry normal select.cur'), default;
+    	cursor: url('/Users/zoeervolino/Documents/zoe/SocialStudiesNew/Strawberry normal select.cur'), default;
 }
 </style>
 
@@ -23,9 +28,14 @@ css: ashlin_style.css
 
 <hr>
 
+<h1>ASHLINISMS</h1>
+
 <b>Welcome back to ELA!</b>
 
-<h1>ASHLINISMS</h1>
+<a href="intro.html"><center><i><h3>ELA INTRO</i><h3></center></a>
+<br>
+<a href="squid.html"><center><i><h3>ELA SQUID</i><h3></center></a>
+
  
 Some "Ashlinisms" include: 
 <br>
@@ -44,7 +54,7 @@ That was fun! Now, let's take a step back to review some basics about how we can
 
 ```{r image1, echo=FALSE, out.width="40%", fig.align='center'}
 
-brain <- "/Users/zoeervolino/Documents/zoe/SocialStudies/Expanding-Brain.jpeg"
+brain <- "/Users/zoeervolino/Documents/zoe/SocialStudiesNew/Expanding-Brain.jpeg"
 knitr::include_graphics(brain)
 
 ```
@@ -53,17 +63,23 @@ knitr::include_graphics(brain)
 <h2>TAG</h2>
 ```{r image2, echo=FALSE, out.width="20%", fig.align='center'}
 
-tag <- "/Users/zoeervolino/Documents/zoe/SocialStudies/tag.jpeg"
+tag <- "/Users/zoeervolino/Documents/zoe/SocialStudiesNew/tag.jpeg"
 knitr::include_graphics(tag)
 
 ```
+<center>
 <h3>(you're it!)</h3>
-
-<b>T- Title
-
+</center>
+<center>
+<b>T - Title
+</center>
+<center>
 A - Author
-
+</center>
+<center>
 G - Genre**</b>
+</center>
+
 <br>
 <h3>for example:</h3>
 
@@ -71,8 +87,9 @@ G - Genre**</b>
 A timeless reckoning with jealousy, fidelity, and love, William Shakespeare's comedic play, <i>A Midsummer Night's Dream</i>, highlights the absurd qualities of the human experience.
 <br>
 <i><small>**REMINDER: don't forget how to properly cite different <u>types</u> of texts. For the purpose of this class we will use MLA but Chicago is widely used in historical writing and APA is used in scientific literature.</i></small></h4>
-<br>
 
+<br>
+<br>
 <h3>CITATION examples:</h3>
 <h4> 
   - An 1861 article titled, "Othello's Shadow," argued that the Shakespearean work presented a case for abolition of enslaved Africans.
@@ -91,22 +108,28 @@ A timeless reckoning with jealousy, fidelity, and love, William Shakespeare's co
 <h2>BLT</h2>
 ```{r image3, echo=FALSE, out.width="20%", fig.align='center'}
 
-blt <- "/Users/zoeervolino/Documents/zoe/SocialStudies/27Diaryrex4-articleLarge.jpeg"
+blt <- "/Users/zoeervolino/Documents/zoe/SocialStudiesNew/27Diaryrex4-articleLarge.jpeg"
 knitr::include_graphics(blt)
 
 ```
 <h3>(no, in this case you CAN'T hold the 'B' even if you're vegan)</h3>
 <br>
+<center>
 <b>B - Background
-
+</center>
+<center>
 L - Location
-
+</center>
+<center>
 T - Time</b>
-
+</center>
+<center>
 <h3>for example:</h3>
-
+</center>
+<center>
 <h4>- First performed around 1596, Shakespeare's <i>A Midsummer Night's Dream</i> traces the escapades of four Athenians who escape to the forest only to find themselves bewitched by supernatural forces.</h4>
-
+</center>
 <hr>
+<br>
 
 
