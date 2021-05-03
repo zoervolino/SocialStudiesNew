@@ -39,7 +39,7 @@ css: ashlin_style.css
 <h4>3. <b>BLT</b>: Background, Location, Time
 <br>
 
-<h4>4. <b>Synopsis</b>: a birds eye view of the world
+<h4>4. <b>Synopsis</b>: a bird's eye view of the world
 <br>
 
 <h4>5. <b>Focus</b>: narrowing in to set up the topic
