@@ -27,14 +27,7 @@ library(knitr)
 library(embedr)
 library(vembedr)
 ```
-<p style="text-align:left">
-<small><small>Zoe Morales Ervolino 
-<br>
-(she / her / ella)
-<br>
-4.30.21</small></small></p>
 
-<hr>
 <center><h1>SOCIAL STUDIES</h1>
 </center>
 <center>
