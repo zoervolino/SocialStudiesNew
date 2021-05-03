@@ -36,8 +36,10 @@ library(vembedr)
 
 <hr>
 <center><h1>SOCIAL STUDIES</h1>
-
+</center>
+<center>
 <b>Welcome back to Social Studies!</b>
+</center>
 
 <br>
 <h3>
@@ -126,7 +128,7 @@ Starting with evidence:
 <hr>
 
 <h3>Returning to the Subject at Hand</h3><br>
-<h4>A sample body paragraph</h4>
+<h4>A sample argumentative essay</h4>
 
 Legal practices and legislation were and are crucial to maintaining the specific conditions and day-to-day life of both Chinese coolie laborers in the Reconstruction Era and Mexican immigrant workers in the present day, but functioned differently. In the case of coolie laborers, the law was crucial to both sustaining and terminating coolie labor, and legislative changes shaped the lived experiences of individual workers in both positive and negative ways. With the abolition of the slavery during the Civil War, southern plantation owners searched desperately for a replacement of cheap, disposable labor to sustain the agricultural economy that had been in place and dependent on slavery. Following the model of restrictive coolie labor in Cuba, Louisiana legislature passed an extensive series of laws, known as Black Codes, that severely undermined workers' rights and freedoms. With the intention of demonstrating to black workers that the agricultural system could be sustained without them, various merchant houses, given demand and state sanction, began to supply and profit from the emerging market for coolie laborers. Under these policies, not only was importing coolie labor sanctioned by the state, but unjust treatment, originally aimed at repressing freed black workers, was approved as well. 
 

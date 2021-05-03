@@ -19,13 +19,6 @@ css: ashlin_style.css
 }
 </style>
 
-<p style="text-align:left">
-<small><small>Zoe Morales Ervolino 
-<br>
-(she / her / ella)
-<br>
-4.29.21</small></small></p>
-<hr>
 <center>
 <h1>ASHLINISMS</h1>
 </center>
@@ -33,12 +26,8 @@ css: ashlin_style.css
 <center>
 <b>Welcome back to ELA!</b>
 </center>
+
 <center>
-<br>
-<a href="intro.html"><center><i><h3>ELA INTRO</i><h3></center></a>
-<br>
-<a href="squid.html"><center><i><h3>ELA SQUID</i><h3></center></a>
-<br>
 Some "Ashlinisms" include: 
 <br>
 - "marginalia"
@@ -48,10 +37,18 @@ Some "Ashlinisms" include:
 - "take a fiver"
 <br>
 - "SORE-ee" instead of "sorry"
+</center>
 <br>
 <br>
+<center>
 That was fun! Now, let's take a step back to review some basics about how we can strengthen our writing.
-
+</center>
+<center>
+<br>
+<a href="intro.html"><center><i><h3>ELA INTRO</i><h3></center></a>
+<br>
+<a href="squid.html"><center><i><h3>ELA SQUID</i><h3></center></a>
+<br>
 <hr>
 
 ```{r image1, echo=FALSE, out.width="40%", fig.align='center'}
@@ -60,78 +57,29 @@ brain <- "/Users/zoeervolino/Documents/zoe/SocialStudiesNew/Expanding-Brain.jpeg
 knitr::include_graphics(brain)
 
 ```
-<hr>
-
-<h2>TAG</h2>
-```{r image2, echo=FALSE, out.width="20%", fig.align='center'}
-
-tag <- "/Users/zoeervolino/Documents/zoe/SocialStudiesNew/tag.jpeg"
-knitr::include_graphics(tag)
-
-```
-<center>
-<h3>(you're it!)</h3>
-</center>
-<center>
-<b>T - Title
-</center>
-<center>
-A - Author
-</center>
-<center>
-G - Genre**</b>
-</center>
-
 <br>
-<h3>for example:</h3>
-
-<h4><br>
-A timeless reckoning with jealousy, fidelity, and love, William Shakespeare's comedic play, <i>A Midsummer Night's Dream</i>, highlights the absurd qualities of the human experience.
-<br>
+<center>
 <i><small>**REMINDER: don't forget how to properly cite different <u>types</u> of texts. For the purpose of this class we will use MLA but Chicago is widely used in historical writing and APA is used in scientific literature.</i></small></h4>
-
+</center>
 <br>
 <br>
+<center>
 <h3>CITATION examples:</h3>
+</center>
+
+<center>
 <h4> 
-  - An 1861 article titled, "Othello's Shadow," argued that the Shakespearean work presented a case for abolition of enslaved Africans.
-  
-  
-  - As a widely acclaimed novel highlighting class disparities in 1920s New York, <i>The Great Gatsby</i> transformed the American literary  cannon.
-  
-  
-  - William Carlos Williams' poem, "The Red Wheelbarrow," invites the reader to reconsider the foundations of daily life.
-  
-  
-  - Broadcasted on American television during the 1990s, <u>The Fresh Prince of Bel-Air</u> managed to effectively refute a static representation of blackness in media.</h4>
+An 1861 article titled, "Othello's Shadow," argued that the Shakespearean work presented a case for abolition of enslaved Africans.</h4>
+</center>
+<center>
+<h4>As a widely acclaimed novel highlighting class disparities in 1920s New York, <i>The Great Gatsby</i> transformed the American literary  cannon.</h4>
+</center>
+<center>
+<h4>William Carlos Williams' poem, "The Red Wheelbarrow," invites the reader to reconsider the foundations of daily life.</h4>
+</center>
+<center>
+<h4>Broadcasted on American television during the 1990s, <u>The Fresh Prince of Bel-Air</u> managed to effectively refute a static representation of blackness in media.</h4>
+</center>
 
 <hr>
-
-<h2>BLT</h2>
-```{r image3, echo=FALSE, out.width="20%", fig.align='center'}
-
-blt <- "/Users/zoeervolino/Documents/zoe/SocialStudiesNew/27Diaryrex4-articleLarge.jpeg"
-knitr::include_graphics(blt)
-
-```
-<h3>(no, in this case you CAN'T hold the 'B' even if you're vegan)</h3>
-<br>
-<center>
-<b>B - Background
-</center>
-<center>
-L - Location
-</center>
-<center>
-T - Time</b>
-</center>
-<center>
-<h3>for example:</h3>
-</center>
-<center>
-<h4>- First performed around 1596, Shakespeare's <i>A Midsummer Night's Dream</i> traces the escapades of four Athenians who escape to the forest only to find themselves bewitched by supernatural forces.</h4>
-</center>
-<hr>
-<br>
-
 

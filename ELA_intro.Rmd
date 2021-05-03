@@ -22,14 +22,6 @@ css: ashlin_style.css
 }
 </style>
 
-<p style="text-align:left">
-<small><small>Zoe Morales Ervolino 
-<br>
-(she / her / ella)
-<br>
-4.29.21</small></small></p>
-
-<hr>
 <center><h1>ELA</h1></center>
 
 <b>Welcome back to ELA!</b><br>In this lesson, we will review the components that form <u>a strong introductory paragraph</u> for a literary essay.
