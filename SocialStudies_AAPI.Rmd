@@ -21,6 +21,12 @@ knit: (function(input_file, encoding) {
 }
 </style>
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+library(embedr)
+library(vembedr)
+```
 <p style="text-align:left">
 <small><small>Zoe Morales Ervolino 
 <br>
@@ -29,34 +35,42 @@ knit: (function(input_file, encoding) {
 4.30.21</small></small></p>
 
 <hr>
-<center><h1>SOCIAL STUDIES</h1></center>
+<center><h1>SOCIAL STUDIES</h1>
 
 <b>Welcome back to Social Studies!</b>
 
-<a href="Ashlinisms.html"><i>Review on essay structure from ELA</i></a>
-
-<B>TODAY:</B>
-A spoonful of sugar helps the empire, race, labor, and capitalism go down.
 <br>
+<h3>
+<center><a href="Ashlinisms.html"><i>Review on essay structure from ELA</i></a>
+</h3>
+</br>
 
-<html>
-<body>
+<center><B>TODAY:</B>
 <br>
-<video width="50%" controls>
-  <source src="IMG_5145.MOV" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<center>A spoonful of sugar helps the empire, race, labor, and capitalism go down.</center>
 <br>
 
-</body>
-</html>
+</center>
+<center><h3>Social Justice Walkout</h3></center>
+<br>
+```{r viaje, echo=FALSE, fig.align='center'}
+protest <- "IMG_5145_2.mp4"
+embed_video(
+  protest, 
+  type = "mp4", 
+  height = "500px", 
+  attribute = "controls",
+    ##thumbnail = "/Volumes/NO NAME/zoe/viaje.jpeg",
+)
+```
 <br>
 <br>
+<center>
 In this lesson, we will review the components that form <u>a strong introductory paragraph</u> for an essay.
-
 <br>
 
 <h3>Structure of a successful introduction:</h3>
+</center>
 
 <h4>1. <b>Hook</b>: grabs the reader's attention
 <br>
