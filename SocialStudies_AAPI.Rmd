@@ -45,16 +45,14 @@ library(vembedr)
 <center>A spoonful of sugar helps the empire, race, labor, and capitalism go down.</center>
 <br>
 
-</center>
-<center><h3>Social Justice Walkout</h3></center>
-<br>
+
 ```{r viaje, echo=FALSE, fig.align='center'}
-protest <- "IMG_5145_2.mp4"
-embed_video(
-  protest, 
-  type = "mp4", 
-  height = "500px", 
-  attribute = "controls",
+##protest <- "IMG_5145_2.mp4"
+##embed_video(
+ ## protest, 
+ ## type = "mp4", 
+ ## height = "500px", 
+ ## attribute = "controls",
     ##thumbnail = "/Volumes/NO NAME/zoe/viaje.jpeg",
 )
 ```
